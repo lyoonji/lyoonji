@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Jiyeong (이윤지)
+## Hi there 👋 I'm Yoonji (이윤지)
 
 ### 👩‍💻 About Me
 - 데이터 분석 · 최적화 모델링 · 백엔드 & AI 서비스 개발 경험
